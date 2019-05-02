@@ -8,19 +8,19 @@
     
     (b) equal treatment is guaranteed to all rightholders in relation to the terms of the licence.
 
-    1a. Member States shall provide for an exception or limitation to the rights provided for in Articles 2 and 3 of Directive 2001/29/EC, Articles 5(a), (b), (d) and (e) and 7(1) of Directive 96/9/EC, Article 4(1) of Directive 2009/24/EC, and Article 11(1) of this Directive, in order to allow cultural heritage institutions to make available out-of- commerce works or other subject-matter that are permanently in their collections for non-commercial purposes, provided that:
+    1a. Member States shall provide for an exception or limitation to the rights provided for in Articles 2 and 3 of Directive 2001/29/EC, Articles 5(a), (b), (d) and (e) and 7(1) of Directive 96/9/EC, Article 4(1) of Directive 2009/24/EC, and Article 11(1) of this Directive, in order to allow cultural heritage institutions to make available out-of-commerce works or other subject-matter that are permanently in their collections for non- commercial purposes, provided that:
 
-    (a) ~~[the author or any other identifiable rightholder was informed individually at least six months before the use, unless this turns out to be impossible, and]~~ the name of the author or any other identifiable rightholder is indicated, unless this turns out to be impossible;
+    (a) the name of the author or any other identifiable rightholder is indicated, unless this turns out to be impossible;
     
-    (b) such works or other subject-matter are made available on ~~dedicated~~ non-commercial ~~portals~~ websites ~~[which are accessible on the premises of cultural heritage institutions]~~.
+    (b) such works or other subject-matter are made available on non-commercial websites.
     
-    1b. Member States shall provide that the exception or limitation referred to in the previous paragraph only applies to types of works or other subject- matter for which no collective management organisation exists that fulfils the conditions referred to in point (a) of paragraph 1.
+    1b. Member States shall provide that the exception or limitation referred to in the previous paragraph only applies to types of works or other subject-matter for which no collective management organisation exists that fulfils the conditions referred to in point (a) of paragraph 1.
     
     1c. Member States shall provide that all rightholders may at any time, easily and effectively, exclude their works or other subject-matter from the licensing mechanism referred to in paragraph 1 or from uses under the exception or limitation referred to in paragraph 1a, either in general or in specific cases, including after the conclusion of a licence or the beginning of the use concerned.
 
 2. A work or other subject-matter shall be deemed to be out-of- commerce when it can be presumed in good faith that the whole work or other subject-matter is not available to the public through customary channels of commerce after a reasonable effort is made to determine such availability.
 
-    Member States may provide for specific requirements, such as a cut-off date, to determine whether works and other subject-matter can be licensed in accordance with paragraph 1 or used under the exception or limitation referred to in paragraph 1a. Such requirements shall not extend beyond what is necessary and reasonable, and shall not preclude the possibility to determine the out-of-commerce status of a set of works or other subject-matter as a whole, when it is reasonable to presume that all works or other subject-matter are out-of commerce.
+    Member States may provide for specific requirements, such as a cut-off date, to determine whether works and other subject-matter can be licensed in accordance with paragraph 1 or used under the exception or limitation referred to in paragraph 1a. Such requirements shall not extend beyond what is necessary and reasonable, and shall not preclude the possibility to determine the out-of-commerce status of a set of works or other subject- matter as a whole, when it is reasonable to presume that all works or other subject-matter are out-of commerce.
 
 4. Member States shall ensure that the licences referred to in paragraph 1 are sought from a collective management organisation that is representative for the Member State where the cultural heritage institution is established.
 
