@@ -1,7 +1,3 @@
-## Article 5c Exception for never-in-commerce works
-
-Member States shall provide for an exception or limitation to the rights provided for in Articles 2 and 3 of Directive 2001/29/EC, point (a) of Article 5 and Article 7(1) of Directive 96/9/EC, Article 4(1) of Directive 2009/24/EC and Article 11(1) of this Directive in order to permit, for the non-commercial purposes of a cultural heritage institution, the digitisation, distribution, communication to the public or making available of works or other subject-matter that were never in commerce and which are permanently in the collection of the institution.
-
 # CHAPTER 1 Out-of-commerce works
 
 ## Article 7 Use of out-of-commerce works by cultural heritage institutions
@@ -14,11 +10,11 @@ Member States shall provide for an exception or limitation to the rights provide
     
     (c) all rightholders may at any time object to their works or other subject-matter being deemed to be out of commerce and exclude the application of the licence to their works or other subject-matter.
   
-2. A work or other subject-matter shall be deemed to be out of commerce when the whole work or other subject-matter, in all its translations, versions and manifestations, is not available to the public through customary channels of commerce and cannot be reasonably expected to become so in the Member States where the competent collective management organisation and the cultural heritage institution are established.
+2. A work or other subject-matter shall be deemed to be out of commerce when the whole work or other subject-matter, in all its versions and manifestations, is not available to the public through customary channels of commerce and cannot be reasonably expected to become so in the Member States where the competent collective management organisation and the cultural heritage institution are established. For the purposes of this Article, works that have never been, or were never intended to be, in commerce shall be treated as being out-of-commerce.
 
-    Member States shall, in consultation with rightholders, collective management organisations and cultural heritage institutions, ensure that the requirements used to determine whether works and other subject-matter can be licensed in accordance with paragraph 1 do not extend beyond what is necessary and reasonable, are tailored to the specific category of works or other subject-matter concerned, and do not preclude the possibility to determine the out-of-commerce status of a collection as a whole, when it is reasonable to presume that all works or other subject-matter in the collection are out of commerce.
+    Member States shall, in consultation with rightholders, collective management organisations and cultural heritage institutions, ensure that the requirements used to determine whether works and other subject-matter are out-of-commerce and can be licensed in accordance with paragraph 1 do not extend beyond what is necessary, proportionate, reasonable, are tailored to the specific category of works or other subject-matter concerned and do not preclude the possibility to determine the out-of-commerce status of a collection as a whole, when it is reasonable to presume that all works or other subject- matter in the collection are out of commerce.
 
-3. Member States shall provide that appropriate publicity measures, such as a single portal, are taken regarding:
+3. Member States shall provide that appropriate and effective publicity measures are taken regarding:
 
     (a) the deeming of works or other subject-matter as out of commerce;
     
@@ -48,8 +44,8 @@ Member States shall provide for an exception or limitation to the rights provide
 
 ## Article 9 Stakeholder dialogue
 
-1. Member States shall ensure a regular, sector-specific dialogue between representative users' and rightholders' organisations, and any other relevant stakeholder organisations, to, on a sector-specific basis, foster the relevance and usability of the licensing mechanisms referred to in Article 7(1), ensure the effectiveness of the safeguards for rightholders referred to in this Chapter, notably as regards publicity measures, and, where applicable, assist in the establishment of the requirements referred to in the second subparagraph of Article 7(2), in particular regarding the representativeness of collective management organisations and the categorisation of works.
+1. Member States shall ensure a regular, sector-specific dialogue between representative users' and rightholders' organisations, and any other relevant stakeholder organisations, to foster the relevance and usability of the licensing mechanisms referred to in Article 7(1) ensure the effectiveness of the safeguards for rightholders referred to in this Chapter, notably as regards publicity measures, and, where applicable, assist in the establishment of the requirements referred to in the second subparagraph of Article 7(2), in particular regarding the representativeness of collective management organisations and the categorisation of works.
 
-1a. Where necessary, Member States shall facilitate dialogue between rightholders with a view to establishing collective management organisations covering the relevant rights in their category of works.
+1a. Where necessary, Member States shall facilitate dialogue between rightholders with a view to establishing collective management organisations responsible for the relevant rights in their category of works.
 
-1b. In cooperation with the Member States, the Commission shall encourage the exchange of best practices across the Union regarding the results of any dialogue established pursuant to this Article.
+1b. In cooperation with the Member States, the Commission shall encourage the exchange of best practice across the Union regarding any dialogue established pursuant to this Article.
