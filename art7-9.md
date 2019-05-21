@@ -8,7 +8,7 @@
     
     (b) all rightholders are guaranteed equal treatment in relation to the terms of the licence.
 
-    1a. Member States shall provide for an exception or limitation to the rights provided for in Article 5(a), (b), (d) and (e) and Article 7(1) of Directive 96/9/EC, Articles 2 and 3 of Directive 2001/29/EC, Article 4(1) of Directive 2009/24/EC, and Article 15(1) of this Directive, in order to allow cultural heritage institutions to make available, for non-commercial purposes, out-of-commerce works or other subject matter that are permanently in their collections, on condition that:
+2. Member States shall provide for an exception or limitation to the rights provided for in Article 5(a), (b), (d) and (e) and Article 7(1) of Directive 96/9/EC, Articles 2 and 3 of Directive 2001/29/EC, Article 4(1) of Directive 2009/24/EC, and Article 15(1) of this Directive, in order to allow cultural heritage institutions to make available, for non-commercial purposes, out-of-commerce works or other subject matter that are permanently in their collections, on condition that:
 
    (a) the name of the author or any other identifiable rightholder is indicated, unless this turns out to be impossible; and
     
